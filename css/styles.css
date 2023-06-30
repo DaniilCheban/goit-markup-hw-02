@@ -188,14 +188,14 @@ color: #2e2f42;
     font-size: 16px;
     font-family: "Roboto",sans-serif;
     font-weight: 500;
-    line-height: 1.15;
+    line-height: 1.5;
     letter-spacing: 0.02em;
 }
 .adress-link :hover{
 color:  #404bbf;
 }
 .adress-link :focus {
-    color: #404bbf;
+color: #404bbf;
 }
 
         
@@ -212,7 +212,7 @@ color:  #404bbf;
     letter-spacing: 0.02em;
 }
 .contacts-link :hover{
-    color: #404bbf ;
+    color: #404bbf;
 }
 .contacts-link :focus{
     color: #404bbf;
