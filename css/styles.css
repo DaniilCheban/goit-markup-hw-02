@@ -23,14 +23,12 @@ body {
 }
 
 .head-text {
-    color:  #FFF;
-    text-align: center;
+    color: #ffffff;
     font-size: 56px;
-    font-family: "Roboto", sans-serif;
-    font-style: normal;
-    font-weight: 700;
     line-height: 1.07;
-    letter-spacing: 0.02em;
+    text-align: center;
+    etter-spacing: 0.02em;
+
 }
 
 
