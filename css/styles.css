@@ -152,15 +152,7 @@ letter-spacing: 0.02em;
         letter-spacing: 0.03em;
         text-transform: uppercase;
 }
-.logo-link span{
-    color: #2e2f42;
-        font-size: 18px;
-        font-family: "Raleway", sans-serif;
-        font-weight: 800;
-        line-height: 1.17;
-        letter-spacing: 0.03em;
-        text-transform: uppercase;
-}
+
 
 .navigation-list{
     list-style: none;
@@ -168,7 +160,10 @@ letter-spacing: 0.02em;
 link{
     text-decoration: none;
 }
-.header-list :hover,:focus {
+.header-list :hover{
+color: #404bbf;
+}
+.header-list :focus {
 color: #404bbf;
 }
 
