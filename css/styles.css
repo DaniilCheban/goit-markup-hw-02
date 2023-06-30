@@ -42,13 +42,12 @@ background-color: var(--brand-color);
 cursor: pointer;
 }
 
-.head-btn :hover{
+.head-btn:hover,
+.head-btn:focus {
     background-color: #404BBF;
 
 }
-.head-btn :focus{
-    background-color: #404bbf;
-}
+
 /**______ADVANTAGES______**/
 
 .advantages-section-list{
@@ -169,10 +168,8 @@ letter-spacing: 0.02em;
 link{
     text-decoration: none;
 }
-.header-list :hover{
-color: #404bbf;
-}
-.header-list :focus {
+.header-list:hover,
+.header-list:focus {
 color: #404bbf;
 }
 
@@ -195,11 +192,9 @@ color: #2e2f42;
     line-height: 1.5;
     letter-spacing: 0.02em;
 }
-.adress-link :hover{
+.adress-link:hover,
+.adress-link:focus {
 color:  #404bbf;
-}
-.adress-link :focus {
-color: #404bbf;
 }
 
         
@@ -215,12 +210,11 @@ color: #404bbf;
     line-height: 1.5;
     letter-spacing: 0.02em;
 }
-.contacts-link :hover{
+.contacts-link:hover,
+.contacts-link:focus {
     color: #404bbf;
 }
-.contacts-link :focus{
-    color: #404bbf;
-}
+
 
 /**----------BUTTON------**/
 .section-item {}
@@ -242,14 +236,12 @@ color: #404bbf;
     background-color: #F4F4FD;
 cursor: pointer;}
     
-.btn-style:hover{
-    color: white;
+.btn-style:hover,
+.btn-style:focus {
+    color: #ffffff;
     background-color: #404BBF;
 }
-.btn-style :focus{
-    color: #FFFFFF;
-    background-color: #404BBF;
-}
+
 
 /**----------IMAGES------**/
 
@@ -291,7 +283,7 @@ cursor: pointer;}
         font-size: 18px;
         font-family: "Raleway",sans-serif;
         font-weight: 800;
-        line-height: 1.1;
+        line-height: 1.17;
         letter-spacing: 0.03em;
         text-transform: uppercase;
 }
