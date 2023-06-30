@@ -13,7 +13,7 @@ body {
 }
 
 .list {
-  list-style-type: none;
+  list-style:  none;
 }
 /**______TITLE______**/
 
@@ -228,7 +228,7 @@ color:  #404bbf;
 .button-item {}
 
 .btn-style{
-    color: #4d5ae5;
+    color: #4D5AE5;
     font-size: 16px;
     font-family: inherit;
     font-weight: 500;
