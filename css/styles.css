@@ -23,14 +23,16 @@ body {
 }
 
 .head-text {
-    color: #ffffff;
+    color:  #FFF;
+    text-align: center;
     font-size: 56px;
     font-family: "Roboto", sans-serif;
+    font-style: normal;
     font-weight: 700;
     line-height: 1.07;
     letter-spacing: 0.02em;
-    text-align: center
 }
+
 
 .head-btn {
     color:#ffffff;
